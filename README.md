@@ -13,7 +13,7 @@ To provide a comprehensive view of supply chain performance through key metrics,
 - Monitors overall cost efficiency and supports profitability analysis.
 
 ## Dashboard
-- <a href-"[https://github.com/Nkneha076279/Supply-chain-Management/blob/main/Supply%20Chain%20Management%20Dashboard.pbix)"
+- <a href-"[[https://github.com/Nkneha076279/Supply-chain-Management/blob/main/Supply%20Chain%20Management%20Dashboard.pbix)](https://github.com/Nkneha076279/SuperStore-Sales-Dashboard/blob/main/SuperStore_Sales_Dataset.csv)"
   
 ## Project Process
 - **Data Cleaning** – Collected, cleaned, and structured sales data for analysi including product SKUs, supplier information, stock levels, shipping details, and cost 
