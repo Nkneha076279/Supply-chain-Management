@@ -2,7 +2,7 @@
 To provide a comprehensive view of supply chain performance through key metrics, enabling stakeholders to make data-driven decisions regarding products, suppliers, and overall logistics efficiency.
 
 ## Dataset Used.
-- <a href-"[(https://github.com/Nkneha076279/SuperStore-Sales-Dashboard/blob/main/SuperStore_Sales_Dataset.csv)]"
+- <a href-"[https://github.com/Nkneha076279/Financial-Management-Dashboard/blob/main/supply_chain_data.xlsx]"
 
 ## Question (KPIs)  
 - Measures overall financial performance of the supply chain.
