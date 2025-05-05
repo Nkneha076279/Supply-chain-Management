@@ -2,7 +2,7 @@
 To provide a comprehensive view of supply chain performance through key metrics, enabling stakeholders to make data-driven decisions regarding products, suppliers, and overall logistics efficiency.
 
 ## Dataset Used.
-- <a href-(https://github.com/Nkneha076279/SuperStore-Sales-Dashboard/blob/main/SuperStore_Sales_Dataset.csv)">Dataset</a>
+- <a href-[https://github.com/Nkneha076279/SuperStore-Sales-Dashboard/blob/main/SuperStore_Sales_Dataset.csv)">Dataset</a>
 
 ## Question (KPIs)  
 - Measures overall financial performance of the supply chain.
@@ -37,7 +37,9 @@ To provide a comprehensive view of supply chain performance through key metrics,
 
 ## Final Takeaways & Recommendations:
 🔹 The dashboard provides clear insights into product performance, supplier efficiency, and cost distribution.
+
 🔹 High defect rates and longer lead times were identified with specific suppliers.
+
 🔹 Recommendation: Focus on optimizing inventory, improving supplier selection, and reducing logistics costs through better mode selectio
 
 # Conclusion 
